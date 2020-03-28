@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec91ece5-47ec-4d5a-a99b-50bfb930f9ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonsterPeer/com/company/Arena.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MonsterPeer/com/company/Arena.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonsterPeer/com/company/FireMonster.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MonsterPeer/com/company/FireMonster.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonsterPeer/com/company/GrassMonster.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MonsterPeer/com/company/GrassMonster.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonsterPeer/com/company/Monster.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MonsterPeer/com/company/Monster.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonsterPeer/com/company/WaterMonster.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MonsterPeer/com/company/WaterMonster.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Arena.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Arena.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/FireMonster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/FireMonster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/GrassMonster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/GrassMonster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/WaterMonster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/WaterMonster.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Rdg4ruXwP6kr0MD7pu4EYnd0Wd" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Arena" />
+      <module name="MonsterPeer" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec91ece5-47ec-4d5a-a99b-50bfb930f9ad" name="Default Changelist" comment="" />
+      <created>1570002198438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570002198438</updated>
+      <workItem from="1570002202623" duration="119000" />
+      <workItem from="1570002347926" duration="14098000" />
+      <workItem from="1570023176969" duration="7315000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
